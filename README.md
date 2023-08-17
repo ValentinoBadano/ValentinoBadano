@@ -1,7 +1,7 @@
 ### Hi, this is Valentino Badano
 
 - 🔭 I’m currently studying to be a software engineer
-- 🌱 I’m also learning Full Stack Development
+- 🌱 I’m also interested in Machine Learning
 - 📫 How to reach me: valentinobadano@gmail.com
 
 <!--
