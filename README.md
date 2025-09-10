@@ -1,20 +1,26 @@
-### Hi, this is Valentino Badano
+# Hi there, I'm Valentino  
 
-- 🔭 I’m currently studying to be a software engineer
-- 🌱 I’m also interested in Machine Learning
-- 📫 How to reach me: valentinobadano@gmail.com
+🎓 Soon-to-be **Software Engineering graduate** from *UNNOBA*.  
+💻 **DataOps Engineer @ Databricks** — building scalable and reliable data platforms.  
 
-<!--
-**ValentinoBadano/ValentinoBadano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+- **DevOps / DataOps** · Terraform · Jenkins · Kubernetes · CI/CD · Linux  
+- **Data & ML** · Python · Pandas · NumPy · TensorFlow · PyTorch  
+- **Software Dev** · .NET · Java · React · Angular + Spring Boot  
+- **Databases** · PostgreSQL · MySQL  
 
+---
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning & Exploring  
+- Multi-cloud (Azure · AWS · GCP)  
+- Orchestration (Airflow · Argo · Spinnaker)  
+- Scala & advanced data engineering practices  
+
+---
+
+## 🎹 Beyond Code  
+🎵 Playing piano  
+♟️ Chess enthusiast  
+📖 Stoicism & self-growth  
